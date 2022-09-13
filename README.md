@@ -4,15 +4,16 @@
 
 ```
 Hunger Captian, with a frontend built in React & Redux and a backend built in Django API.
+This is an online food menu service for Hunger Captain. When you visit the restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select. So we created the menu app where you can see food images with the needed information and select your items easily. During such an unprecedented time and social distancing, online menu card technology is a boon!
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://hungercaptian-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-hunger-captain1.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://hungercaptian-backend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-hunger-captain1.herokuapp.com/) here!!
 
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
@@ -27,7 +28,7 @@ Check out [API LIVE DEMO](https://hungercaptian-backend.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/ajardinelc/Hunger-Captian.git
+1. Git Clone https://github.com/nathaliafguedes/Hunger-Captain.git
 
 ```
 git clone 
